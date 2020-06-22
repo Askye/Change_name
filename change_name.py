@@ -43,4 +43,4 @@ def change_name(path, new_name, saison = " ", debut = 1) :
 		debut += 1
 
 
-change_name("/mnt/d/'Shingeki No Kyojin'/'Shingeki test'/", "Shingeki No Kyojin", saison = 3)
+#change_name("/mnt/d/'Shingeki No Kyojin'/'Shingeki test'/", "Shingeki No Kyojin")
