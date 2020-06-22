@@ -12,4 +12,8 @@ Resulat :
         <li>Shingeki No Kyojin S03E01</li>
         <li>Shingeki No Kyojin S03E02</li>
         <li>...</li>
-<ul/>
+</ul>
+
+<H3> Important ! </H3>
+
+Utilisation du module Subprocess et Python3
