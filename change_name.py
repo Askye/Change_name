@@ -22,5 +22,5 @@ def change_name(path, saison, debut, new_name) :
 		i += 1
 
 
-change_name("/mnt/d/'Shingeki No Kyojin'/'Shingeki No Kyojin S03'/", 3, 1, "Shingeki No Kyojin")
+#change_name("/mnt/d/'Shingeki No Kyojin'/'Shingeki No Kyojin S03'/", 3, 1, "Shingeki No Kyojin")
 #change_name("/mnt/d/'Fullmetal Alchemist Brotherhood'/", " ", 1, "Fullmetal Alchemist Brotherhood")
