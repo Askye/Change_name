@@ -4,7 +4,7 @@ Changer le nom de plusieurs épisodes d'une série automatiquement
 Format : change_name([Chemin d'acces], [nouveau nom], saison = [Numero de la saison] , debut = [numero du 1er épisode])
 
 
-Exemple : 
+Exemple : <br/>
 change_name("/mnt/d/'Shingeki No Kyojin'/'Shingeki test'/", "Shingeki No Kyojin", saison = 3, debut = 5)
 
 Resulat : 
@@ -13,7 +13,7 @@ Resulat :
         <li>Shingeki No Kyojin S03E06</li>
         <li>...</li>
 </ul>
-
+-------------------------- <br/>
 change_name("/mnt/d/'Shingeki No Kyojin'/'Shingeki test'/", "Shingeki No Kyojin")
 
 Resulat : 
