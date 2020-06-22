@@ -33,6 +33,7 @@ def change_name(path, new_name, saison = " ", debut = 1) :
 		if (new_file in lst and new_file != elem) : #changer le nom du fichier si existe déjà
 			index = lst.index (new_file)
 			lst[index] = "'" + "xvtTMP" + str(debut) + take_extension (new_file) + "'"
+			
 			subprocess.run("mv " + path + new_file + " " + path + lst[index] , shell=True)
 
 		subprocess.run("mv " + path + elem + " " + path + new_file + " -b", shell=True)
